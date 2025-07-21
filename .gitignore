@@ -22,3 +22,6 @@ yarn-error.log
 /.idea
 /.nova
 /.vscode
+
+# Archivos grandes o binarios
+dist.zip
