@@ -1,0 +1,1 @@
+<x-filament::link :href="filament()->getRequestPasswordResetUrl()" tabindex="3"> {{ __("auth.login.forgot_password") }}?</x-filament::link>
